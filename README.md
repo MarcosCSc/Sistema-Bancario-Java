@@ -1,9 +1,3 @@
-# IDENTIFICAÇÃO
-- Nome: Marcos André Fialho da Silva Junior
-- Matrícula: 2631463
-- Disciplina: Projeto de Programação
-- Professor: Amaury Nogueira
-
 # COMO EXECUTAR
 1. Abra o terminal na pasta do projeto
 2. Compile todos os arquivos com: javac *.java
